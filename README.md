@@ -21,3 +21,9 @@ https://cdn.jsdelivr.net/gh/<user>/<repo>@<version/brance>/<filename>
 https://cdn.jsdelivr.net/gh/xu-ux/common@main/css/jetbrains.css
 
 ```
+
+```
+
+https://cdn.jsdelivr.net/gh/xu-ux/common@main/
+
+```
