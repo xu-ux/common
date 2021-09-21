@@ -10,6 +10,8 @@
 
 ## 引用
 
+```
+
 https://cdn.jsdelivr.net/gh/<user>/<repo>/<filename>
   
 https://cdn.jsdelivr.net/gh/<user>/<repo>@latest/<filename>
@@ -17,3 +19,5 @@ https://cdn.jsdelivr.net/gh/<user>/<repo>@latest/<filename>
 https://cdn.jsdelivr.net/gh/<user>/<repo>@<version/brance>/<filename>
   
 https://cdn.jsdelivr.net/gh/xu-ux/common@main/css/jetbrains.css
+
+```
