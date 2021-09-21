@@ -6,4 +6,14 @@
 
 [🔗资源访问监测](https://www.jsdelivr.com/package/gh/xu-ux/common)
 
-[📖关于jsdelivr,请看Wiki](https://github.com/xu-ux/common/wiki)
+[📖关于jsdelivr,请看Wiki](https://github.com/xu-ux/common/wiki
+
+## 引用
+
+https://cdn.jsdelivr.net/gh/<user>/<repo>/<filename>
+  
+https://cdn.jsdelivr.net/gh/<user>/<repo>@latest/<filename>
+  
+https://cdn.jsdelivr.net/gh/<user>/<repo>@<version/brance>/<filename>
+  
+https://cdn.jsdelivr.net/gh/xu-ux/common@main/css/jetbrains.css
