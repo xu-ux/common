@@ -35,7 +35,7 @@ https://github.com/adobe/source-code-pro
 Inconsolata：优雅，由杰出的设计师创造
 
 https://www.levien.com/type/myfonts/inconsolata.html
-
+https://github.com/google/fonts/tree/main/ofl/inconsolata
 
 
 Noto Mono：庞大的语言覆盖范围，由Google的大型团队创建
